@@ -5,6 +5,6 @@ resource "aws_subnet" "terraform_public_subnet02" {
   availability_zone       = "eu-west-1b"
 
   tags = {
-    Name = "Terraform-public-subnet02
+    Name = "Terraform-public-subnet02"
   }
 }
